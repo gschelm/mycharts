@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-02-21T10:37:35.003463505-08:00
+    description: A Helm chart for Kubernetes
+    digest: c48739aadf88b0058e7476bafd2a000d2f53b367770abdb684e06275a0690aa9
+    name: notificationchart
+    urls:
+    - https://gschelm.github.io/mycharts/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-02-21T10:37:35.002899599-08:00
